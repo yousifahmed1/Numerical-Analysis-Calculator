@@ -1,16 +1,5 @@
-# nas
+# Numerical Analysis Calculator Using Flutter
 
-A new Flutter project.
+Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The Numerical Analysis Calculator project in Dart implements essential mathematical methods including bisection, false position, fixed point iteration, secant, Newton-Raphson, Gauss-Jordan, Gauss elimination, LU decomposition, and Cramer's rule. These methods enable efficient solutions to equations, root finding, and matrix operations..
